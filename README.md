@@ -1,0 +1,2 @@
+# Kaggle-Competition-Titanic-EDA-
+RMS Titanic, It was the world's largest steam passenger ship when it was completed in 1912. On the night of April 15, 1912, it hit an iceberg on its first voyage and sank into the icy waters of the North Atlantic in about two hours and forty minutes. Its sinking resulted in the deaths of 1,514 people and went down in history as one of the greatest maritime disasters.
